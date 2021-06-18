@@ -1,0 +1,46 @@
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
+  .laddu {
+    /* The image used */
+    background-image: url("https://st2.depositphotos.com/1003272/5998/i/950/depositphotos_59988165-stock-photo-white-box.jpg");
+
+   
+    /* Center  image nicely */
+    background-position: right;
+    background-size: center;
+    position: sticky;
+    height: 1200px;
+    margin-inline: 50px;
+   
+}
+
+/*  styles to the form */
+.guddu {
+    position: fixed;
+    height: 400px;
+    font-weight: 200px;
+    right: 100px;
+    left: 20px;
+    margin: 300px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-block-end: 100px;
+    margin-block-start: 100px;
+    max-width: 500px;
+    padding: 100px;
+    background-color: rgb(165, 151, 146);
+    border-radius: 55px 3px 60px 0px ;
+}
+
+.img-responsive {
+  width: 370px;
+  height: 400px;
+}
